@@ -1,7 +1,7 @@
 # nizk
 Welcome To Nizk Source 
 $botid =0000; # 1903586293
-$step1 = json_decode(file_get_contents("https://api.telegram.org/bot".API_KEY."/getChatMember?chat_id=$chat_id&user_id=$botid"),true);
+$step1 = json_decode(file_get_contents("https://api.telegram.org/bot".API_KEY."/@najmalshammal86BOT_id=1903586293$chat_id&user_id=$botid"),true);
 
 $step3 = $step1['result']
 ['can_change_info'];
