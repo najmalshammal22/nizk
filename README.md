@@ -56,7 +56,7 @@ $check5 ︙حظر تقيد الاعضاء
 $check8 ︙اضافهۃ مشرفين
 $check4 ︙حذف الرسائل
 • ┉ • ┉ • ┉ • ┉ • ┉ • 
-⌯ ¦ Ch ⋙ @Godlovers7
+⌯ ¦ Ch ⋙ @TH3SS*
 ",'parse_mode'=>"MARKDOWN",
 ]);
 }
